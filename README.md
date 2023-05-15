@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F86500&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas+Vespa%2C;I'm+19+years+old%2C;From+Brazil%2C+SP;I'm+a+Information+Systems+student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <a href="https://github.com/harrowzin">
+  <a href="https://github.com/lukasvespa">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lukasvespa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasvespa&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
