@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F86500&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas+Vespa%2C;I'm+19+years+old%2C;From+Brazil%2C+SP;I'm+a+Information+Systems+student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F86500&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas+Vespa%2C;I'm+20+years+old%2C;From+Brazil%2C+SP;I'm+a+Information+Systems+student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/lukasvespa">
@@ -21,15 +21,7 @@
   
 
 <div> 
-  <a href = "mailto:lucasvesparangel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.lucasvespa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-vespa-rangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
-
-##
-
-<div align="center">
-
-![Snake animation](https://github.com/lukasvespa/lukasvespa/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
