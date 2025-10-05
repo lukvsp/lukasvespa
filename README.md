@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F86500&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas%2C;I'm+21+years+old%2C;From+Brazil%2C+SP;I'm+a+Information+Systems+student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F86500&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas%2C;I'm+23+years+old%2C;From+Brazil%2C+SP;I'm+a+Information+Systems+student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/lukasvespa">
